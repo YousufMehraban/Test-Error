@@ -3,7 +3,6 @@ import { NavLink } from "react-router-dom";
 
 
 const FoodList = ['burrito', 'pizza', 'pasta', 'shwarma', 'steak']
-
 const NavBar = () =>{
 
     return(
